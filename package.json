@@ -1,11 +1,11 @@
 {
-  "name": "lossless-json",
+  "name": "json-lib",
   "version": "1.0.3",
   "description": "Parse JSON without risk of losing numeric information",
-  "main": "./dist/lossless-json.js",
+  "main": "./dist/json-lib.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/josdejong/lossless-json.git"
+    "url": "https://github.com/gufoe/json-lib.git"
   },
   "scripts": {
     "test": "ava **/*.test.js",
