@@ -4,8 +4,8 @@ import { uglify } from 'rollup-plugin-uglify';
 export default {
   input: 'lib/index.js',
   output: {
-    name: 'LosslessJSON',
-    file: 'dist/lossless-json.js',
+    name: 'JsonLib',
+    file: 'dist/json-lib.js',
     format: 'umd',
     sourcemap: true,
   },
